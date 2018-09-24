@@ -1,3 +1,3 @@
 # PyTestApi
-# Write tests for this service
-# Write tests in any language or framework
+# Writing tests for this service
+# Written in Python using pytest
